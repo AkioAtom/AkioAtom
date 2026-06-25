@@ -16,7 +16,7 @@ I'm a **Full Stack Developer** from Bhopal, Madhya Pradesh, India, with hands-on
 
 🎓 **CSE Sophomore** at VIT Bhopal University (8.5 CGPA)
 
-🚀 Building full-stack applications with **Next.js, React, TailwindCSS, and Node.js**
+🚀 Building full-stack applications with **Next.js, React.js,  TailwindCSS, and Node.js**
 
 📍 **Location:** Bhopal, Madhya Pradesh, India | **Email:** hkushwaha21305@gmail.com
 
